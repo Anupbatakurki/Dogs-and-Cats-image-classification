@@ -66,4 +66,4 @@ Inspiration from various tutorials and articles on image classification with Ker
 
 By following these steps, you should be able to set up, run, and use the Dogs vs Cats Image Classifier project on your local machine. If you encounter any issues, please check the configurations and ensure all dependencies are installed correctly.
 
-#Special Thanks for Hunar Intern -internship for this amazing opporunity.
+Special Thanks for **Hunar Intern** -internship for this amazing opporunity.
