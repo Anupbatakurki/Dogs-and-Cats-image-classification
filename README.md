@@ -18,8 +18,8 @@ Dataset - https://www.kaggle.com/datasets/samuelcortinhas/cats-and-dogs-image-cl
 1. Prerequisites
 Ensure you have the following installed on your system:
 
-Python 3.x
-pip (Python package installer)
+Python 3.11
+
 
 2. Clone the Repository
 Open a terminal or command prompt.
