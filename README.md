@@ -17,7 +17,6 @@ Dataset - https://www.kaggle.com/datasets/samuelcortinhas/cats-and-dogs-image-cl
 #**Step-by-Step Guide**
 1. Prerequisites
 Ensure you have the following installed on your system:
-
 Python 3.11
 
 
